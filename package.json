@@ -8,7 +8,7 @@
     "start": "concurrently npm:start:*"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "concurrently": "^5.2.0"
   }
 }
